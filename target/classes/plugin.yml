@@ -1,0 +1,12 @@
+main: org.nextuniverse.joinutils.Main
+author: TheDiamondPicks
+description: Some join utils
+name: JoinUtils
+commands:
+  setspawn:
+    description: Sets the spawn
+  spawn:
+    description: Goes to the spawn
+  book:
+    description: Gives book
+version: 1.0
